@@ -1,0 +1,103 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\3d.h(109,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\3d.h(106): message : podczas kompilowania funkcji składowej „std::vector<std::vector<Trojwymiarowe<float>::struktura,std::allocator<Trojwymiarowe<float>::struktura>>,std::allocator<std::vector<Trojwymiarowe<float>::struktura,std::allocator<Trojwymiarowe<float>::struktura>>>> Trojwymiarowe<float>::operator *(const Trojwymiarowe<float> &)” klasy klasa szablon
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(52): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::vector<std::vector<Trojwymiarowe<float>::struktura,std::allocator<Trojwymiarowe<float>::struktura>>,std::allocator<std::vector<Trojwymiarowe<float>::struktura,std::allocator<Trojwymiarowe<float>::struktura>>>> Trojwymiarowe<float>::operator *(const Trojwymiarowe<float> &)” funkcji szablon
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „Trojwymiarowe<float>” klasy klasa szablon
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\3d.h(112,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\3d.h(114,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\3d.h(94,17): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\3d.h(92): message : podczas kompilowania funkcji składowej „void Trojwymiarowe<float>::wyswietl(void)” klasy klasa szablon
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(49): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void Trojwymiarowe<float>::wyswietl(void)” funkcji szablon
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\3d.h(95,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\3d.h(93,9): warning C4101: "licznik": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\3d.h(82,17): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\3d.h(79): message : podczas kompilowania funkcji składowej „std::vector<std::vector<Trojwymiarowe<float>::struktura,std::allocator<Trojwymiarowe<float>::struktura>>,std::allocator<std::vector<Trojwymiarowe<float>::struktura,std::allocator<Trojwymiarowe<float>::struktura>>>> Trojwymiarowe<float>::operator -(const Trojwymiarowe<float> &)” klasy klasa szablon
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(51): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::vector<std::vector<Trojwymiarowe<float>::struktura,std::allocator<Trojwymiarowe<float>::struktura>>,std::allocator<std::vector<Trojwymiarowe<float>::struktura,std::allocator<Trojwymiarowe<float>::struktura>>>> Trojwymiarowe<float>::operator -(const Trojwymiarowe<float> &)” funkcji szablon
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\3d.h(84,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\3d.h(68,17): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\3d.h(65): message : podczas kompilowania funkcji składowej „std::vector<std::vector<Trojwymiarowe<float>::struktura,std::allocator<Trojwymiarowe<float>::struktura>>,std::allocator<std::vector<Trojwymiarowe<float>::struktura,std::allocator<Trojwymiarowe<float>::struktura>>>> Trojwymiarowe<float>::operator *(int &)” klasy klasa szablon
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(54): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::vector<std::vector<Trojwymiarowe<float>::struktura,std::allocator<Trojwymiarowe<float>::struktura>>,std::allocator<std::vector<Trojwymiarowe<float>::struktura,std::allocator<Trojwymiarowe<float>::struktura>>>> Trojwymiarowe<float>::operator *(int &)” funkcji szablon
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\3d.h(70,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\3d.h(54,17): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\3d.h(51): message : podczas kompilowania funkcji składowej „std::vector<std::vector<Trojwymiarowe<float>::struktura,std::allocator<Trojwymiarowe<float>::struktura>>,std::allocator<std::vector<Trojwymiarowe<float>::struktura,std::allocator<Trojwymiarowe<float>::struktura>>>> Trojwymiarowe<float>::operator +(const Trojwymiarowe<float> &)” klasy klasa szablon
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(50): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::vector<std::vector<Trojwymiarowe<float>::struktura,std::allocator<Trojwymiarowe<float>::struktura>>,std::allocator<std::vector<Trojwymiarowe<float>::struktura,std::allocator<Trojwymiarowe<float>::struktura>>>> Trojwymiarowe<float>::operator +(const Trojwymiarowe<float> &)” funkcji szablon
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\3d.h(56,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\zespolone.h(100,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\zespolone.h(97): message : podczas kompilowania funkcji składowej „std::vector<std::vector<Zespolone<float>::zesp,std::allocator<Zespolone<float>::zesp>>,std::allocator<std::vector<Zespolone<float>::zesp,std::allocator<Zespolone<float>::zesp>>>> Zespolone<float>::operator *(const Zespolone<float> &)” klasy klasa szablon
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(40): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::vector<std::vector<Zespolone<float>::zesp,std::allocator<Zespolone<float>::zesp>>,std::allocator<std::vector<Zespolone<float>::zesp,std::allocator<Zespolone<float>::zesp>>>> Zespolone<float>::operator *(const Zespolone<float> &)” funkcji szablon
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(35): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „Zespolone<float>” klasy klasa szablon
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\zespolone.h(103,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\zespolone.h(105,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\zespolone.h(74,17): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\zespolone.h(71): message : podczas kompilowania funkcji składowej „std::vector<std::vector<Zespolone<float>::zesp,std::allocator<Zespolone<float>::zesp>>,std::allocator<std::vector<Zespolone<float>::zesp,std::allocator<Zespolone<float>::zesp>>>> Zespolone<float>::operator -(const Zespolone<float> &)” klasy klasa szablon
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(39): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::vector<std::vector<Zespolone<float>::zesp,std::allocator<Zespolone<float>::zesp>>,std::allocator<std::vector<Zespolone<float>::zesp,std::allocator<Zespolone<float>::zesp>>>> Zespolone<float>::operator -(const Zespolone<float> &)” funkcji szablon
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\zespolone.h(76,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\zespolone.h(61,17): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\zespolone.h(58): message : podczas kompilowania funkcji składowej „std::vector<std::vector<Zespolone<float>::zesp,std::allocator<Zespolone<float>::zesp>>,std::allocator<std::vector<Zespolone<float>::zesp,std::allocator<Zespolone<float>::zesp>>>> Zespolone<float>::operator *(const int &)” klasy klasa szablon
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(42): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::vector<std::vector<Zespolone<float>::zesp,std::allocator<Zespolone<float>::zesp>>,std::allocator<std::vector<Zespolone<float>::zesp,std::allocator<Zespolone<float>::zesp>>>> Zespolone<float>::operator *(const int &)” funkcji szablon
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\zespolone.h(63,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\zespolone.h(48,17): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\zespolone.h(45): message : podczas kompilowania funkcji składowej „std::vector<std::vector<Zespolone<float>::zesp,std::allocator<Zespolone<float>::zesp>>,std::allocator<std::vector<Zespolone<float>::zesp,std::allocator<Zespolone<float>::zesp>>>> Zespolone<float>::operator +(const Zespolone<float> &)” klasy klasa szablon
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(38): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::vector<std::vector<Zespolone<float>::zesp,std::allocator<Zespolone<float>::zesp>>,std::allocator<std::vector<Zespolone<float>::zesp,std::allocator<Zespolone<float>::zesp>>>> Zespolone<float>::operator +(const Zespolone<float> &)” funkcji szablon
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\zespolone.h(50,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\liczby.h(80,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\liczby.h(78): message : podczas kompilowania funkcji składowej „std::vector<std::vector<jakis_typ,std::allocator<jakis_typ>>,std::allocator<std::vector<jakis_typ,std::allocator<jakis_typ>>>> Wektor<jakis_typ>::operator *(const Wektor<jakis_typ> &)” klasy klasa szablon
+          with
+          [
+              jakis_typ=float
+          ]
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(28): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::vector<std::vector<jakis_typ,std::allocator<jakis_typ>>,std::allocator<std::vector<jakis_typ,std::allocator<jakis_typ>>>> Wektor<jakis_typ>::operator *(const Wektor<jakis_typ> &)” funkcji szablon
+          with
+          [
+              jakis_typ=float
+          ]
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(23): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „Wektor<float>” klasy klasa szablon
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\liczby.h(83,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\liczby.h(85,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\liczby.h(59,17): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\liczby.h(56): message : podczas kompilowania funkcji składowej „std::vector<std::vector<jakis_typ,std::allocator<jakis_typ>>,std::allocator<std::vector<jakis_typ,std::allocator<jakis_typ>>>> Wektor<jakis_typ>::operator *(int &)” klasy klasa szablon
+          with
+          [
+              jakis_typ=float
+          ]
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(30): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::vector<std::vector<jakis_typ,std::allocator<jakis_typ>>,std::allocator<std::vector<jakis_typ,std::allocator<jakis_typ>>>> Wektor<jakis_typ>::operator *(int &)” funkcji szablon
+          with
+          [
+              jakis_typ=float
+          ]
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\liczby.h(61,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\liczby.h(62,20): warning C4244: "=": konwersja z "_Ty" do "int", możliwa utrata danych
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\liczby.h(63,24): warning C4244: "argument": konwersja z "int" do "_Ty", możliwa utrata danych
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\liczby.h(48,17): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\liczby.h(46): message : podczas kompilowania funkcji składowej „std::vector<std::vector<jakis_typ,std::allocator<jakis_typ>>,std::allocator<std::vector<jakis_typ,std::allocator<jakis_typ>>>> Wektor<jakis_typ>::operator -(const Wektor<jakis_typ> &)” klasy klasa szablon
+          with
+          [
+              jakis_typ=float
+          ]
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(27): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::vector<std::vector<jakis_typ,std::allocator<jakis_typ>>,std::allocator<std::vector<jakis_typ,std::allocator<jakis_typ>>>> Wektor<jakis_typ>::operator -(const Wektor<jakis_typ> &)” funkcji szablon
+          with
+          [
+              jakis_typ=float
+          ]
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\liczby.h(50,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\liczby.h(38,17): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\liczby.h(36): message : podczas kompilowania funkcji składowej „std::vector<std::vector<jakis_typ,std::allocator<jakis_typ>>,std::allocator<std::vector<jakis_typ,std::allocator<jakis_typ>>>> Wektor<jakis_typ>::operator +(const Wektor<jakis_typ> &)” klasy klasa szablon
+          with
+          [
+              jakis_typ=float
+          ]
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(26): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::vector<std::vector<jakis_typ,std::allocator<jakis_typ>>,std::allocator<std::vector<jakis_typ,std::allocator<jakis_typ>>>> Wektor<jakis_typ>::operator +(const Wektor<jakis_typ> &)” funkcji szablon
+          with
+          [
+              jakis_typ=float
+          ]
+C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\ConsoleApplication1\liczby.h(40,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  ConsoleApplication1.vcxproj -> C:\Users\gniez\Desktop\Nowy folder (2)\ConsoleApplication1\Debug\ConsoleApplication1.exe
